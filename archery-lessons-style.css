@@ -1,0 +1,139 @@
+#banner {max-width: 50%;
+    max-height: auto;
+    float:left;
+    padding top: 2%;
+}
+
+#icon {max-width: 20%;
+    max-height: auto;
+    float:left;
+    clear:both;
+    padding-left: 5%;
+    padding-right: 5%;
+  margin-top: 5%;
+    margin-bottom: 5%;
+    
+}
+
+#logo {float:center;
+    width:60%;
+    max-height:auto;
+    clear:both;
+    margin-top: 5%;
+    margin-bottom: 5%;
+  
+}
+
+.header-top {
+    float:right;
+    margin-right:5%;
+    margin-left:5%;
+    background-color: red;
+    width:90%;
+    clear:both;
+    border-style: solid;
+  border-color: black;
+  border-width: medium;
+}
+
+
+
+    
+.archTopPhone {float:right;
+    margin-right: 2rem;
+    font-size: 2rem;
+    color: Blue;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+}
+
+
+.archTopLessons {float:right;
+    margin-right: 2rem;
+    font-size: 2rem;
+    color: Blue;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+}
+
+.archTopEmail {float:right;
+    clear:both;
+    margin-right: 10%;
+    font-size: 2rem;
+    color: Blue;
+    border-style: solid;
+    border-color: black;
+    background-color: yellow;
+}
+
+#target-practice {max-width: 66%;
+    max-height: auto;
+    float:left;
+    clear:both;
+}
+
+#stp-about {background-color:black; color:white; margin:5px; padding:5px;
+        max-width: 65%;
+    max-height: auto;
+    float:left;
+    clear:both;
+    border-style: solid;
+  border-color: blue;
+  border-width: medium;
+}
+
+#stp-directions-to {background-color:blue; color:white; margin:5px; padding:5px;
+    width: 30%;
+    max-height: auto;
+    float:right;
+    border-style: solid;
+  border-color: yellow;
+  border-width: medium;
+    
+}
+
+#map-canvas {
+  margin:5px; 
+  padding:5px;
+  width: 30%;
+  height: 300px;
+  background-color: #CCC;
+  float:right;
+  border-style: solid;
+  border-color: red;
+  border-width: medium;
+}
+
+
+#instructors {
+  max-width: 20%;
+  max-height: auto;
+  float:left;
+  border-style: solid;
+  border-color: brown;
+}
+
+#footer-block { 
+        background-color: red;
+        max-width: 100%;
+        max-height:auto;
+       
+}
+
+footer i {
+        display: inline-block;
+        padding-right: 15%;
+        padding-left: 15%;
+        background-color: red;
+        float: left;
+}
+
+#footerlogos {
+       size:large;
+       border-style: solid;
+  border-color: black;
+  border-width: medium;
+    
+}
