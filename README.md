@@ -1,2 +1,3 @@
 stp-archery
 ===========
+icon
